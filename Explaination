@@ -1,0 +1,30 @@
+Write and test a class, Circle. The minimum required elements are shown below (Note: any unit type may be used).
+
+Data Members:
+• Radius, with an initial value of 10.
+
+Methods:
+• Constructor with no parameters. This is not the default constructor.
+• Constructor that has one parameter, a double for radius.
+• Getter method for radius
+o The getter method must be used in your program solution.
+• Setter method for radius
+o The setter method must be used in your program solution.
+• Method that computes and returns the area of a circle.
+• Method that computes and returns the circumference of a circle.
+• Method to display a circle’s radius, area, and circumference values.
+o Restrict displaying all numeric outputs to two decimal places.
+o Use meaningful output prompts for displaying the different outputs.
+
+Testing:
+• Develop a driver-class that implements the “main” method. Do not use “Main” as
+the name of the driver-class.
+• Use a meaningful name that represents the primary purpose of the class.
+• The driver-class must only contain the “main” method.
+
+The tasks below are to be implemented for testing the Circle class.
+• Display the radius, area, and circumference of a circle based on the initial radius.
+• Display the radius, area, and circumference based on a radius value provided by
+the user.
+• Change the radius value to 30, and then display the radius, area, and
+circumference of the circle based on this radius value.
